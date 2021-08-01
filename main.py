@@ -14,4 +14,5 @@ if cfg['dec_mode']:
         dec_model.test()
     if cfg['evals']:
         dec_model = DEC_Module(multigpu=False, resume=resume)
-        dec_model.eval_single()
+        dec_model.eval_single()asda
+asdadadadad
